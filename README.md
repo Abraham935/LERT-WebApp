@@ -1,16 +1,9 @@
-# TC3004B
-Repository for the TC3004B subject of the ITC study plan at the Tecnológico de Monterrey Campus Guadalajara. This repository contains all the the documentation related to the IBM's project we are currently working on. The next links provides acess to the information we have  gather until now:
+# TC3004B - Web App
+Application that allows IBM staff managers to recover the expenses of their teams and overall development expenses in one place and be able to share said information efficiently among the organization.
 
-- Trello: https://trello.com/invite/b/t6Dpu0DF/e5cacdd7999d274d5cd1388fd209cd73/planeaci%C3%B3n-ibm
-- SRS(Not finish yet): https://docs.google.com/document/d/1Dak5tR24d-bKAaL2WK6W49BhV5p4mHnd/edit?usp=sharing&ouid=107428553557968197115&rtpof=true&sd=true
-- Project Site: https://thelertproject.wordpress.com/
+# My contribution
+I worked in the Frontend and Backend by creating the different views for each user type and through APIs getting the information from our database and created the methods in order to perform actions like GET, UPDATE, DELETE and PUT. 
 
-Roles:
-
-- Manuel Ignacio Cota Casas: `Squad Leader`
-- Aldo Alejandro Degollado Padilla: `Frontend` / `Backend`
+# Role:
 - Abraham Mendoza Pérez: `Project Manager` / `Frontend` / `Backend`
-- Luis Alonso Martínez García: `Frontend` / `Backend`
-- Diego Velazquez Moreno: `Tester` / `Backend`
-- Sebastian Andrés Rojas Salazar: `Scrum Master`/ `Frontend`/`Backend`
-- Gerardo Novelo De Anda:  `Frontend`
+
