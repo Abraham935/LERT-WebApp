@@ -4,6 +4,14 @@ Application that allows IBM staff managers to recover the expenses of their team
 # My contribution
 I worked in the Frontend and Backend by creating the different views for each user type and through APIs getting the information from our database and created the methods in order to perform actions like GET, UPDATE, DELETE and PUT. 
 
+# Tools:
+- React JS with MUI
+- Flask
+- Python
+- PostgreSQL
+
 # Role:
 - Abraham Mendoza Pérez: `Project Manager` / `Frontend` / `Backend`
+
+
 
